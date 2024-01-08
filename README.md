@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, my name is Rodrigo Belarmino! 
 ## Welcome to my GitHub Account 👋
 
