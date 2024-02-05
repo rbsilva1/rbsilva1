@@ -20,7 +20,7 @@
 
 <div>
 <a href="https://github.com/rbsilva1">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbsilva1)](https://github.com/anuraghazra/github-readme-stats)
+[![Rbsilva's GitHub stats](https://readme-status-beta.vercel.app?username=rbsilva1)](https://github.com/anuraghazra/github-readme-stats)
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rbsilva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
