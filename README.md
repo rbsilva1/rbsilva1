@@ -20,7 +20,7 @@
 
 <div>
 <a href="https://github.com/rbsilva1">
-<img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api?username=rbsilva1&include_all_commits=true&count_private=true""/>
+<img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api?username=rbsilva1"/>
 <img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api/top-langs/?username=rbsilva1>
 </div>
 
