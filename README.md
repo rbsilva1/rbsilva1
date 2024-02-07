@@ -4,8 +4,8 @@
 ## Contatos
 
 <div>
-<a href = "mailto:rodrigo.belarmino17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigo-belarmino-1508a1233/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-3A3B3C?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank"></a>
+<a href = "mailto:rodrigo.belarmino17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-3A3B3C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodrigo-belarmino-1508a1233/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-3A3B3C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
