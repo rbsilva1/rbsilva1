@@ -1,6 +1,6 @@
-## Hello, my name is Rodrigo Belarmino! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=648DE5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Rodrigo+Belarmino!)](https://git.io/typing-svg)
 
-### Contatos
+### Contacts
 
 <div>
 <a href = "mailto:rodrigo.belarmino17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-3A3B3C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,9 +17,10 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
 
-
 <div>
-<a href="https://github.com/rbsilva1">
-<img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api?username=rbsilva1&theme=dark&show_icons=true"/>
-<img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api/top-langs?username=rbsilva1&theme=dark&show_icons=true">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rbsilva1&show_icons=true&count_private=true&hide_border=true&title_color=3B8C6E&icon_color=328da8&text_color=dedede&bg_color=0d1117" alt="Vitório github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbsilva1&layout=compact&hide_border=true&title_color=3B8C6E&text_color=ededed&bg_color=0d1117" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=304C89&height=120&section=footer"/></br>
+<!-- <img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api?username=rbsilva1&theme=dark&show_icons=true"/>
+<img loading="lazy" height="180em" src="https://readme-status-beta.vercel.app/api/top-langs?username=rbsilva1&theme=dark&show_icons=true"> -->
 </div>
