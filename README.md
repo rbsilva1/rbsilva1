@@ -10,7 +10,7 @@
 
 ### Tools and Techs
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,ts,expressjs,nodejs,firebase,git,github,prisma,postgresql,docker&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,expressjs,nodejs,firebase,git,github,prisma,postgresql,docker,html,css&perline=13)](#)
 
 ### Learning 
 
