@@ -14,7 +14,7 @@
 
 ### Learning 
 
-[![My Skills](https://skillicons.dev/icons?i=nest,jest,vue,react&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=nest,jest,vue,react,vitest&perline=13)](#)
 
 <div>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rbsilva1&show_icons=true&count_private=true&hide_border=true&title_color=3B8C6E&icon_color=328da8&text_color=dedede&bg_color=0d1117" alt="Vitório github stats" /> 
